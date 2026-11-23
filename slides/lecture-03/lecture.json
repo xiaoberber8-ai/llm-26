@@ -1,0 +1,10 @@
+{
+  "number": "03",
+  "title": "Embeddings and PyTorch for LLMs",
+  "title_zh": "面向大语言模型的嵌入与 PyTorch",
+  "subtitle": "Lecture 03 – NLP and LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "lecture-03-exercise.ipynb",
+  "demo": "demo.js"
+}

@@ -1,0 +1,9 @@
+{
+  "number": "01",
+  "title": "Tokenization",
+  "title_zh": "词元化",
+  "subtitle": "How does text become model input?",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "demo": "./demo.js"
+}

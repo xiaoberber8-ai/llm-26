@@ -1,0 +1,10 @@
+{
+  "number": "07",
+  "title": "Compute budgets and scaling",
+  "title_zh": "计算预算与缩放规律",
+  "subtitle": "Lecture 07 – NLP and LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "practice.ipynb",
+  "demo": "demo.js"
+}

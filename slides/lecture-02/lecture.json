@@ -1,0 +1,9 @@
+{
+  "number": "02",
+  "title": "N-gram Language Models",
+  "title_zh": "N 元语法语言模型",
+  "subtitle": "Lecture 02 – N-gram Language Models",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "lecture-02-exercise.ipynb"
+}

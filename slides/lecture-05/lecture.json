@@ -1,0 +1,13 @@
+{
+  "number": "05",
+  "title": "Attention and the Transformer",
+  "title_zh": "注意力与 Transformer",
+  "subtitle": "Lecture 05 – NLP and LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "practice.ipynb",
+  "demo": "demo.js",
+  "additional_notebooks": [
+    "lecture-05-exercise.ipynb"
+  ]
+}

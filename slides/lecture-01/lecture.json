@@ -1,0 +1,11 @@
+{
+  "number": "01",
+  "title": "Introduction and Tokenization",
+  "title_zh": "课程导论与词元化",
+  "subtitle": "Lecture 01 – Introduction to NLP & LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "demo": "./demo.js",
+  "notebook": "lecture-01-exercise.ipynb",
+  "additional_notebooks": ["lecture-01-exercise-tokenization.ipynb"]
+}

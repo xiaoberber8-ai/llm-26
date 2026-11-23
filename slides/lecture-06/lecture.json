@@ -1,0 +1,10 @@
+{
+  "number": "06",
+  "title": "Pretraining and decoding in practice",
+  "title_zh": "预训练与解码实践",
+  "subtitle": "Lecture 06 \u2013 NLP and LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "practice.ipynb",
+  "demo": "demo.js"
+}

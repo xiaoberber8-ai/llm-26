@@ -1,0 +1,9 @@
+{
+  "number": "04",
+  "title": "Neural LMs and Recurrent Attention",
+  "title_zh": "神经语言模型与循环注意力",
+  "subtitle": "Lecture 04 \u2013 NLP and LLMs",
+  "language": "en",
+  "slides_zh": "slides.zh.md",
+  "notebook": "lecture-04-exercise.ipynb"
+}
